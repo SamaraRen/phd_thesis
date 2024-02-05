@@ -1,3 +1,6 @@
 [submodule "thesis_template"]
 	path = thesis_template
 	url = git@github.com:HexHive/thesis_template.git
+[submodule "EPFL_thesis_template"]
+	path = EPFL_thesis_template
+	url = git@github.com:glederrey/EPFL_thesis_template.git
